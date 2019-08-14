@@ -1,0 +1,133 @@
+html {
+    background: url("https://archive-media-0.nyafuu.org/wg/image/1458/35/1458355334449.gif");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-position: bottom left;
+    
+
+}
+
+p {
+    text-align: center;
+    color:	#ffffff6c;
+    bottom: -1px;
+    margin-top: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    text-shadow: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow:
+		-1px -1px 0 rgb(rgb(255, 255, 255)),
+		1px -1px 0 rgb(rgb(255, 255, 255)),
+		-1px 1px 0 rgb(rgb(255, 255, 255)),
+        1px 1px 0 rgb(rgb(255, 255, 255));
+    padding: 90px;
+}
+
+style {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+#mysidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.4s;
+    padding: 14px;
+    width: 100px;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mysidenav a:hover {
+    left: 0;
+}
+
+#about {
+    top: 20px;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 30px;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
+#contact {
+    top: 80px;
+    background-color:  rgba(250, 196, 196, 0);
+    font-size: 30px;
+    border-radius:5px;
+    text-decoration: underline;
+    color:	#E64E41;
+
+}
+
+#FAQ {
+    top: 140px;
+    background-color: rgba(255, 0, 119, 0);
+    font-size: 30px;
+    border-radius: 5px;
+    text-decoration: underline;
+    color: 	#E64E41;
+    
+    
+
+}
+
+#blog {
+    top: 140px;
+    Background-color:  rgba(255, 0, 119, 0);
+    border-radius: 5px;
+    font-size: 30px;
+    text-decoration: underline;
+    color: 	#E64E41;
+}
+
+#mysidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.4s;
+    padding: 14px;
+    width: 100px;
+    font-size: 20px;
+    color: 	#E64E41;
+    border-radius: 0 5px 5px 0;
+}
+
+#mysidenav a:hover {
+    left: 0;
+}
+
+#about {
+    top: 20px;
+    background-color: rgba(255, 0, 119, 0);
+    color:	#E64E41;
+}
+
+.mynav a {
+    writing-mode: horizontal-tb;
+    word-spacing: 30px;
+    border-spacing: 20px;
+    margin:110px;
+    font-family: 'Raleway', sans-serif;
+}
+
+div {
+    border-spacing: 20px;
+}
+a{
+    
+    font-size: 30px;
+    color:	#E64E41;
+}

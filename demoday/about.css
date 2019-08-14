@@ -1,0 +1,50 @@
+html {
+	background-image: url("https://lh3.googleusercontent.com/bJ5N6RGQx5wb6B5-iakf4PAqhVcLqJYbYYPdJ0VoFx9ttaOAC_LcIYEzw-9OCxxZIw7hWZ56mQIWVxPF4FWL939Rta2KrdHCy2HbRQjxHoK49yolGtwsjTn8mSL_dP0Hf5xLpeH9yIaQCpi1IQMfey9aROSPhGb-KRsB3yoaA0RHQUC3IJKXwrps8zqbcgcJ0gPoAsKeog2N62huROjAR1nt60H6Lb6yMMsIxOtcc4P261U6oNgSfJw6icoiLtxkGsT5dI0VKf0QAZ1LYZf3WHkUckEf9f6jiK99haFp4nhK8DspMlziiouB4yDERaKEBunFEwWN7oMORYOsKtXVzeiQXTo5QHTew8xwVMIkIcdxwYUXASYxv1nadibor5F3WspJll4u9YWwWqDPPF7eeg1cwV9F4PCf1Y72p8TkukwO6DPiGFBbek4fPQC_PhJ5oaSMbkqlePNAyewrKZamBjtW7FokKP6gZ2QG7fjzdl9YBv5ztMA0BP1TPrNjmb1iCroQjmA22w2a26GrRn2JdQkoNYSlwKDPcLsI8N_cPKo3U7nV8-ZkUVGcvJwSrTrZJYgWRRlBbxQM4qud5F__JuR6_eZ5qzmpeeuEe9-in8u2ouW-wMIHn6bdIz0VaOx-N-wa7JycmMCX--Pxa_AVTCFJtGfvdV18=w750-h924-no");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	text-shadow: 50px;
+	font-weight: bold;
+	text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
+	background-position: top left;
+}
+
+h1 {
+	color: rgb(255, 255, 255);
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	text-shadow: 50px;
+	font-weight: bold;
+	text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+	font-size: 20px;
+	border: 2px;
+	border-color: white;
+	border-style: solid;
+	background-color: rgba(54, 54, 54, 0.678);
+	border-radius: 20px 20px 20px 20px;
+	height: 80%;
+	margin-top: 60px;
+}
+
+a{
+	border: 2px;
+	border-style: solid;
+	border-color: rgb(255, 255, 255);
+	background-color: rgba(54, 54, 54, 0.678);
+	font-size: 20px;
+	border-radius: 20px 20px 20px 20px;
+	padding: 100;
+	padding-bottom: 10px;
+	color: rgb(255, 255, 255);
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	text-shadow: 50px;
+	font-weight: bold;
+	text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+	text-align: center;
+    word-spacing: 200px;
+    text-decoration: none;
+}
